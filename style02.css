@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+table{
+    border-spacing: 15px;
+    background-color: #f3f2f6;
+}
+td{
+    width: 400px;
+    height: 200px;
+    padding: 20px 30px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    }
+.title {
+color: #b03535;
+font-size: 30px;
+font-weight: bold;
+line-height: 1.4;
+}
+.subtitle {
+color: #1e1e5f;
+font-size: 16px;
+margin-top: 10px;
+line-height: 1.6;
+}
