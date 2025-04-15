@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.box-container{
+    font-size: 19px;
+    width: 600px;
+    height: 400px;
+    background-color: #eaeaea;
+    color: #6e678b;
+}
+.box-container h2{
+    font-size: 29px;
+}
+.other{
+    margin-top: 10px;
+    height: 100px;
+}
+.box-container span{
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 5px;
+}
+.option{
+    background-color: #bc222a;
+    color: white;
+    border-color: #bc222a;
+}
